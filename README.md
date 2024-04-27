@@ -17,13 +17,11 @@
 有任何问题或需求都可以直接提交`issue`，也可以邮件->`tanh_heng@lazyalienserver.top`
 
 
-<table><tr><td valign="top">
-  <a href="/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhHeng&hide_border=true&hide_title=true"></a>
-</td>
+<table><tr>
 <td>  
   <a href="/"><img src="https://github-readme-stats.vercel.app/api?username=tanhHeng&hide_rank=true&include_all_commits=true&hide_border=true&hide_title=true"></a>
 </td>
-<td width=25%>
+<td width=50%>
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
