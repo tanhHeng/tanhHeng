@@ -1,5 +1,9 @@
-### Hi there 👋
+### <p align="center"> Hi there 👋 这里是tanh丶桁 </p>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=602&height=30&lines=tf.keras.layers.Dense(64%2C+activation%3D%22relu%22);tanh_Heng+LazyAlienServer" alt="Typing SVG" /></a></p>
+
+<p align="center"><img src=https://img.shields.io/badge/Language-Python-blue> <img src=https://img.shields.io/badge/Language-HTML&CSS-orange> <img src=https://img.shields.io/badge/Social&nbsp;Media-Bilibili-FB7299> <img src=https://img.shields.io/badge/DeepLearning-purple> <img src=https://img.shields.io/badge/Minecraft-dark_gray></p>
 <!--
 **tanhHeng/tanhHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
