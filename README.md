@@ -14,7 +14,7 @@
 
 这里是tanh丶桁~ 主要语言Python/前端/Java，主业是深度学习，业余平面设计~
 
-有任何问题或需求都可以直接提交`issue`，也可以邮件->`tanh_heng@lazyalienserver.top`
+有任何问题或需求都可以直接提交`issue`，也可以邮件->`contact@tanh.moe`
 
 
 <table><tr>
