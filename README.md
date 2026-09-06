@@ -91,7 +91,7 @@ Four projects where code, communities, and creative curiosity meet.
 
 这里是我在代码、社区与创作研究之间持续投入的四个项目。
 
-### [TANH.MOE](https://github.com/tanhHeng/blog)
+### # [TANH.MOE](https://github.com/tanhHeng/blog)
 
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
 
@@ -101,7 +101,7 @@ A personal editorial blog built with Astro, shaped around writing and a design-l
 
 [Website](https://tanh.moe) · [Repository](https://github.com/tanhHeng/blog) · [Issues](https://github.com/tanhHeng/blog/issues)
 
-### [Graduate Texts in Minecraft](https://github.com/techmc-wiki/gtmc)
+### # [Graduate Texts in Minecraft](https://github.com/techmc-wiki/gtmc)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
@@ -111,7 +111,7 @@ A community-written online textbook on Technical Minecraft; I am one of its orga
 
 [Website](https://techmc.wiki) · [Web repository](https://github.com/techmc-wiki/gtmc) · [Articles](https://github.com/techmc-wiki/articles) · [GTMC issues](https://github.com/techmc-wiki/gtmc/issues) · [Article issues](https://github.com/techmc-wiki/articles/issues)
 
-### [MirrorMcsmcdR](https://github.com/LazyAlienServer/MirrorMcsmcdR)
+### # [MirrorMcsmcdR](https://github.com/LazyAlienServer/MirrorMcsmcdR)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
@@ -121,7 +121,7 @@ An MCDR plugin for controlling mirror Minecraft servers and synchronizing files 
 
 [Repository](https://github.com/LazyAlienServer/MirrorMcsmcdR) · [Issues](https://github.com/LazyAlienServer/MirrorMcsmcdR/issues)
 
-### [Where2go](https://github.com/LazyAlienServer/Where2go)
+### # [Where2go](https://github.com/LazyAlienServer/Where2go)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
