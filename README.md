@@ -111,6 +111,16 @@ A community-written online textbook on Technical Minecraft; I am one of its orga
 
 [Website](https://techmc.wiki) · [Web repository](https://github.com/techmc-wiki/gtmc) · [Articles](https://github.com/techmc-wiki/articles) · [GTMC issues](https://github.com/techmc-wiki/gtmc/issues) · [Article issues](https://github.com/techmc-wiki/articles/issues)
 
+### # [LitematicaPreview](https://github.com/Arcadi4/LitematicaPreview)
+
+[![Python](https://img.shields.io/badge/Tauri-FFC032?style=flat-square&logo=tauri&logoColor=black)](https://v2.tauri.app)
+
+An extremely performant viewer for Minecraft schematics, world files, and more.
+
+一个极快的Minecraft投影、世界文件和其它相关文件的预览软件。
+
+[Repository](https://github.com/Arcadi4/LitematicaPreview) · [Releases](https://github.com/Arcadi4/LitematicaPreview/releases)
+
 ### # [MirrorMcsmcdR](https://github.com/LazyAlienServer/MirrorMcsmcdR)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
